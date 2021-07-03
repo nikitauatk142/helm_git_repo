@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  gitrepotest:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-07-03T15:42:53.168906861+03:00"
+    description: A AAAAAHelm chart for Kubernetes
+    digest: a99399d17d5364bcc3e20c8426517358322ce5bf2837a7fc148fdca80290c750
+    name: gitrepotest
+    type: application
+    urls:
+    - gitrepotest-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-07-03T15:42:53.168421452+03:00"
